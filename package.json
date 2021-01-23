@@ -1,0 +1,29 @@
+{
+   "name": "h-lang",
+   "version": "0.1.0",
+   "description": "encoder/decoder for h language",
+   "main": "build/index.js",
+   "scripts": {
+      "build": "echo h",
+      "test": "echo h",
+      "lint": "echo h"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/autumnblazey/h-language.git"
+   },
+   "keywords": [
+      "h"
+   ],
+   "author": "Alexander Liu (autumnblazey)",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/autumnblazey/h-language/issues"
+   },
+   "homepage": "https://github.com/autumnblazey/h-language#readme",
+   "devDependencies": {
+      "fs-extra": "^9.1.0",
+      "typedoc": "^0.20.16",
+      "typescript": "^4.1.3"
+   }
+}
